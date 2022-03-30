@@ -30,6 +30,7 @@ gem 'bigdecimal', '1.3.5'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 gem 'bootstrap-sass'
+gem 'bcrypt', '3.1.12'
 
 group :development, :test do
   gem 'sqlite3', '1.3.13'
